@@ -1,0 +1,19 @@
+{
+  "epochs": 40,
+  "batch_size": 128,
+  "learning_rates": [
+    0.001,
+    0.01
+  ],
+  "hidden_one": [
+    32
+  ],
+  "hidden_two": [
+    64,
+    32
+  ],
+  "seed": 42,
+  "baseline_max_iter": 2000,
+  "cache": "data_cache",
+  "output": "results"
+}
