@@ -1,4 +1,6 @@
 CS 4375 — Assignment 3
+I am using a late day for this assignment. I had 4 days before, and now I should have 3
+
 
 ### Overview
 
